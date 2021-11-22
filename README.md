@@ -1,1 +1,1 @@
-http://www.lesna-skolka.sk/
+https://lesna-skolka.sk/
